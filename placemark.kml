@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="">
-  <Placemark>
-    <name>My office</name>
-    <description>This is the location of my office.</description>
-    <Point>
-      <coordinates>-122.087461,37.422069</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
+   <Placemark>
 		<name>Escola Estadual Antônio de Mello Cotrim</name>
 		<Point>
 			<coordinates>-47.6513023,-22.7515032</coordinates>
