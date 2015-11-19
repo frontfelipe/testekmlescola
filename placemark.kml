@@ -7,4 +7,10 @@
       <coordinates>-122.087461,37.422069</coordinates>
     </Point>
   </Placemark>
+  <Placemark>
+		<name>Escola Estadual Antônio de Mello Cotrim</name>
+		<Point>
+			<coordinates>-47.6513023,-22.7515032</coordinates>
+		</Point>
+	</Placemark>
 </kml>
