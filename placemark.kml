@@ -2,8 +2,629 @@
 <kml xmlns="">
    <Placemark>
 		<name>Escola Estadual Antônio de Mello Cotrim</name>
+		<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
 		<Point>
 			<coordinates>-47.6513023,-22.7515032</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Maria Regina Machado de Castro Guimaraes Profa</name>
+		<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.419566799999984,-23.5172129</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E. E. Cohab Inácio Monteiro III</name>
+		<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.39939800000002,-23.5747215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ETEC Guaracy Silveira</name>
+		<description><![CDATA[Ocupada em 18/11 e desocupada no final do dia 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.6974017,-23.5624674</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Leonardo Vilas Boas</name>
+		<description><![CDATA[Ocupada em 17/11 e desocupada no dia 18/11 pela população local.]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.809518200000014,-23.5475907</coordinates>
+		</Point>
+	</Placemark>
+
+
+	<Placemark>
+		<name>Escola Estadual CEFAM - Diadema</name>
+		<description><![CDATA[<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/11693914_720046361462445_7229252072533445450_n.jpg?oh=ae7399a66ede1e361645a5bd106051d5&oe=56F7DA4E&__gda__=1458778744_21c317883dfedc426adc0a383dcaa887" height="200" width="auto" /><br><br>Ocupada na madrugada do dia 10/11  Escola passará pela reorganização para o ciclo único.]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/11693914_720046361462445_7229252072533445450_n.jpg?oh=ae7399a66ede1e361645a5bd106051d5&amp;oe=56F7DA4E&amp;__gda__=1458778744_21c317883dfedc426adc0a383dcaa887</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.624383999999964,-23.684600000000003</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Fernão Dias Paes</name>
+		<description><![CDATA[<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/12243450_328462370610980_6887639418674395412_n.jpg?oh=de035454219fbab10380f3c1bfe42a19&oe=56B7D68A&__gda__=1455442620_ec21ffc94f62c17a5e74e496698ce099" height="200" width="auto" /><br><br>Ocupada na manhã do dia 10/11. Escola passará pela reorganização para o ciclo único. <br><br><a href="https://youtube.com/watch?v=0u70myemtD0"><img src="http://img.youtube.com/vi/0u70myemtD0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://youtube.com/watch?v=0u70myemtD0">https://youtube.com/watch?v=0u70myemtD0</a><br><br><img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/12219598_328430733947477_5725597187964687385_n.jpg?oh=abf180ad8e4cad66efc308ae1708ba57&oe=56EDECDE&__gda__=1458925800_b126647b6b1b2ff7cb92eb9f8efeda3c" height="200" width="auto" /><br><br><img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/11218940_328389710618246_1717750775764258966_n.jpg?oh=ad16cdfcb647aba88b3f900e3ff9b2e8&oe=56BC04B6&__gda__=1458970126_6a706b1e76b57da38c378329a491b3b1" height="200" width="auto" />]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/12243450_328462370610980_6887639418674395412_n.jpg?oh=de035454219fbab10380f3c1bfe42a19&amp;oe=56B7D68A&amp;__gda__=1455442620_ec21ffc94f62c17a5e74e496698ce099 https://youtube.com/watch?v=0u70myemtD0 https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/12219598_328430733947477_5725597187964687385_n.jpg?oh=abf180ad8e4cad66efc308ae1708ba57&amp;oe=56EDECDE&amp;__gda__=1458925800_b126647b6b1b2ff7cb92eb9f8efeda3c https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/11218940_328389710618246_1717750775764258966_n.jpg?oh=ad16cdfcb647aba88b3f900e3ff9b2e8&amp;oe=56BC04B6&amp;__gda__=1458970126_6a706b1e76b57da38c378329a491b3b1</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.68965850000001,-23.5656255</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Presidente Salvador Allende Gossens</name>
+		<description><![CDATA[<a href="https://youtube.com/watch?v=u9ezgXE-dwA"><img src="http://img.youtube.com/vi/u9ezgXE-dwA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://youtube.com/watch?v=u9ezgXE-dwA">https://youtube.com/watch?v=u9ezgXE-dwA</a><br><br>Ocupada no dia 12/11. Escola na lista de fechamento.<br><br><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12208732_328424063948144_4945546980443415809_n.jpg?oh=e13ec1ff228e0d12dd16ca94bf7908bd&oe=56EC4DA8&__gda__=1454791923_a4054089fd0a9bd5efdcd7a40a818405" height="200" width="auto" />]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://youtube.com/watch?v=u9ezgXE-dwA https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12208732_328424063948144_4945546980443415809_n.jpg?oh=e13ec1ff228e0d12dd16ca94bf7908bd&amp;oe=56EC4DA8&amp;__gda__=1454791923_a4054089fd0a9bd5efdcd7a40a818405</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.4333967,-23.5385367</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Castro Alves</name>
+		<description><![CDATA[<img src="https://scontent-gru1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11139408_328473660609851_5288109677173109979_n.jpg?oh=60a27ddae429b4787354c4d87d216d14&oe=56B384BA" height="200" width="auto" /><br><br>Ocupada no dia12/11. Escola na lista de fechamento. http://www.passapalavra.info/2015/11/106834<br><br><img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12243473_328479987275885_6223332363225134728_n.jpg?oh=9ea2d19ed265885c771f845e4e824b25&oe=56BBE615&__gda__=1459283022_b9c136ac0fb334f99f857846f0f11bcf" height="200" width="auto" /><br><br><img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/12241257_328479993942551_3095047138077266499_n.jpg?oh=7a2999288ad7b3bca39d3b1f58a481ed&oe=56F0CBBF&__gda__=1455233467_b7da0753f2d6d62912fe665c490b0911" height="200" width="auto" />]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://scontent-gru1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11139408_328473660609851_5288109677173109979_n.jpg?oh=60a27ddae429b4787354c4d87d216d14&amp;oe=56B384BA https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12243473_328479987275885_6223332363225134728_n.jpg?oh=9ea2d19ed265885c771f845e4e824b25&amp;oe=56BBE615&amp;__gda__=1459283022_b9c136ac0fb334f99f857846f0f11bcf https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/12241257_328479993942551_3095047138077266499_n.jpg?oh=7a2999288ad7b3bca39d3b1f58a481ed&amp;oe=56F0CBBF&amp;__gda__=1455233467_b7da0753f2d6d62912fe665c490b0911</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.6398944,-23.48548049999999</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Prof. Heloisa Assumpção</name>
+		<description><![CDATA[<img src="https://scontent-gru1-1.xx.fbcdn.net/hphotos-xtp1/v/l/t1.0-9/12072560_720210691446012_5310127907897168829_n.jpg?oh=43a6805d41943baa465e66bee61b6c5f&oe=56AFB07C" height="200" width="auto" /><br><br>Ocupada no dia 12/11<br><br><img src="https://scontent-gru1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11221533_720210704779344_453810115250120164_n.jpg?oh=83c9765c69bf76cfd744e8b1db4847e8&oe=56B067FB" height="200" width="auto" />]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://scontent-gru1-1.xx.fbcdn.net/hphotos-xtp1/v/l/t1.0-9/12072560_720210691446012_5310127907897168829_n.jpg?oh=43a6805d41943baa465e66bee61b6c5f&amp;oe=56AFB07C https://scontent-gru1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11221533_720210704779344_453810115250120164_n.jpg?oh=83c9765c69bf76cfd744e8b1db4847e8&amp;oe=56B067FB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.805062599999985,-23.5249271</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Ana Rosa de Araújo</name>
+		<description><![CDATA[Ocupada no dia 13/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.72695859999999,-23.5890197</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE GODOFREDO FURTADO</name>
+		<description><![CDATA[Ocupada desde o dia 13/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.678606899999984,-23.559177200000004</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Carlos Gomes</name>
+		<description><![CDATA[<img src="http://www.campinas.sp.gov.br/uploads/fotos/95b1b8ec90636a4c4250c7c3f54e3b26.jpg" height="200" width="auto" /><br><br>Ocupada no dia 13/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>http://www.campinas.sp.gov.br/uploads/fotos/95b1b8ec90636a4c4250c7c3f54e3b26.jpg</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-47.05735019999997,-22.9021479</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Antonio Manoel Alves de Lima</name>
+		<description><![CDATA[<img src="https://scontent-mia1-1.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/12219323_328737050583512_9024140516824179641_n.jpg?oh=4628b06c6f60c9875419bdae220cf1b1&oe=56EF3C0B" height="200" width="auto" /><br><br>Ocupada na noite de 13 de novembro]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://scontent-mia1-1.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/12219323_328737050583512_9024140516824179641_n.jpg?oh=4628b06c6f60c9875419bdae220cf1b1&amp;oe=56EF3C0B</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.73742290000001,-23.6602461</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. Professor Oscavo de Paula e Silva</name>
+		<description><![CDATA[<img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1606935_720598024740612_4579249785713638894_n.jpg?oh=635bf3b66b66c218beb0cee1b7f794ee&oe=56B6AB05&__gda__=1455179832_3a885c19be9fa8969f68c6a922ca79ef" height="200" width="auto" /><br><br>Ocupada na noite de 13 de novembro]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1606935_720598024740612_4579249785713638894_n.jpg?oh=635bf3b66b66c218beb0cee1b7f794ee&amp;oe=56B6AB05&amp;__gda__=1455179832_3a885c19be9fa8969f68c6a922ca79ef</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.52514299999996,-23.645051</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Elizete de Oliveira Bertini</name>
+		<description><![CDATA[<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12208790_328734563917094_3237657106068520844_n.jpg?oh=a7abc955b19138746fb169f9738a7dd6&oe=56EB2E36&__gda__=1454840941_2d396e2b08867510592082d9447bcfe8" height="200" width="auto" /><br><br>Ocupada na noite de 13 de novembro]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12208790_328734563917094_3237657106068520844_n.jpg?oh=a7abc955b19138746fb169f9738a7dd6&amp;oe=56EB2E36&amp;__gda__=1454840941_2d396e2b08867510592082d9447bcfe8</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.803719,-23.6740737</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Comendador Miguel Maluhy</name>
+		<description><![CDATA[<img src="https://scontent-mia1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/12240004_328750440582173_3007276381858034143_n.jpg?oh=2e5b2641786829f8f99712acacc71e00&oe=56B9AFFA" height="200" width="auto" /><br><br>Ocupada na noite de 13 de novembro]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://scontent-mia1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/12240004_328750440582173_3007276381858034143_n.jpg?oh=2e5b2641786829f8f99712acacc71e00&amp;oe=56B9AFFA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.75611989999999,-23.6154087</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. Valdomiro Silveira</name>
+		<description><![CDATA[<img src="https://scontent-gru1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12240023_328445960612621_4707499067233924259_n.jpg?oh=62648aeaf2b5ff0c139e7e0aebcce01b&oe=56EBAFB0" height="200" width="auto" /><br><br>Escola ocupada e desocupada no dia 12 de novembro<br><br><img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/12234998_328446240612593_6163703072963765314_n.jpg?oh=78d37abc8b46091a83784beb8a1db1a9&oe=56AD9C6B&__gda__=1454774127_43f75efb96ca5ea7c5e6051ea00d0fef" height="200" width="auto" /><br><br><img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xta1/v/t1.0-9/12241357_720169504783464_4878037423837478879_n.jpg?oh=b5302d8ae0c1c1b321223053653158b9&oe=56BF8EF0&__gda__=1458882169_5cc3df0781f6f0be142fe231a86831d0" height="200" width="auto" />]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://scontent-gru1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12240023_328445960612621_4707499067233924259_n.jpg?oh=62648aeaf2b5ff0c139e7e0aebcce01b&amp;oe=56EBAFB0 https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/12234998_328446240612593_6163703072963765314_n.jpg?oh=78d37abc8b46091a83784beb8a1db1a9&amp;oe=56AD9C6B&amp;__gda__=1454774127_43f75efb96ca5ea7c5e6051ea00d0fef https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xta1/v/t1.0-9/12241357_720169504783464_4878037423837478879_n.jpg?oh=b5302d8ae0c1c1b321223053653158b9&amp;oe=56BF8EF0&amp;__gda__=1458882169_5cc3df0781f6f0be142fe231a86831d0</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.49839680000002,-23.6853445</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Antônio Adib Chammas</name>
+		<description><![CDATA[<img src="https://scontent-mia1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/12208476_328739633916587_2819928655994469807_n.jpg?oh=d4ab697b67bca9078b39c5017d5f311d&oe=56AE4880" height="200" width="auto" /><br><br>Ocupada na noite de 13 de novembro]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://scontent-mia1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/12208476_328739633916587_2819928655994469807_n.jpg?oh=d4ab697b67bca9078b39c5017d5f311d&amp;oe=56AE4880</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.51351649999998,-23.6985986</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Professor Sílvio Xavier Antunes</name>
+		<description><![CDATA[Ocupada em 13 de Novembro]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.71320309999999,-23.501859900000003</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E Mary Moraes/Sul 1</name>
+		<description><![CDATA[Ocupada na madrugada do dia 14/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.745603700000004,-23.6150393</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Professor Pio Telles Peixoto</name>
+		<description><![CDATA[<img src="https://scontent-gru1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12227125_328680480589169_829713399756755361_n.jpg?oh=cdd88d9cc4b7966e0487ce2cde4375cf&oe=56B684DF" height="200" width="auto" /><br><br>Ocupada no dia 13/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name='gx_media_links'>
+				<value>https://scontent-gru1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12227125_328680480589169_829713399756755361_n.jpg?oh=cdd88d9cc4b7966e0487ce2cde4375cf&amp;oe=56B684DF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.74860860000001,-23.5115828</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE José Lins do Rego</name>
+		<description><![CDATA[Ocupada na madrugada do dia 14/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.75536090000003,-23.6758354</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E. E. Professor Flávio José Osório Negrini</name>
+		<description><![CDATA[Ocupada na manhã do dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.75215379999998,-23.6295728</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. Profª Neyde Apparecida Sollitto</name>
+		<description><![CDATA[Ocupada na manhã do dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.74629770000002,-23.6209664</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. João Kopke</name>
+		<description><![CDATA[Ocupada na manhã do dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.641983900000014,-23.53248439999999</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E E MARTIN EGÍDIO DAMY</name>
+		<description><![CDATA[Ocupada na manhã do dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.68640590000001,-23.469761</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. Sinhá Pantoja</name>
+		<description><![CDATA[Ocupada na manhã doa dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.74050999999997,-23.6674845</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Padre Saboia de Medeiros</name>
+		<description><![CDATA[Ocupada na manhã do dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.699646099999995,-23.6330702</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE DELCIO DE SOUZA CUNHA</name>
+		<description><![CDATA[Na manhã do dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.6081964,-23.67996329999999</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Suely Machado da Silva</name>
+		<description><![CDATA[Ocupada desde o dia 13/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-47.36521830000004,-20.5336501</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE MARIO AVEZANI</name>
+		<description><![CDATA[Ocupada desde o dia 13/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-47.24595369999997,-21.8254798</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE PROFESSOR ASTROJILDO ARRUDA</name>
+		<description><![CDATA[Ocupada no dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.44602889999999,-23.5061084</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE CORONEL ANTONIO PAIVA SAMPAIO</name>
+		<description><![CDATA[Ocupada dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.81131370000003,-23.533761</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Prof Maria Elena Colonia</name>
+		<description><![CDATA[Ocupada dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.443984,-23.6895789</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE SANTINHO CARNEVALE</name>
+		<description><![CDATA[Ocupada dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.39422100000002,-23.7211749</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE ROGER JULES DE CARVALHOMANGE</name>
+		<description><![CDATA[Ocupada dia 16/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.37291110000001,-23.5016986</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Escola Estadual Stela Machado</name>
+		<description><![CDATA[Ocupada na manhã do dia 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-49.10081679999996,-22.323765500000004</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE PROFESSORA MARILSA GARBOSA</name>
+		<description><![CDATA[Ocupada dia 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.7415891,-23.6596358</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE AMÉRICO BRASILIENSE</name>
+		<description><![CDATA[Ocupada dia 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.52998850000001,-23.6561255</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. Prof. José Augusto De Azevedo Antunes</name>
+		<description><![CDATA[Ocupada dia 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.51881290000001,-23.6615529</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Doutor Eloy de Miranda Chaves</name>
+		<description><![CDATA[Ocupada em 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.867939999999976,-23.182279</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Escola Estadual Senador João Galeão Carvalhal</name>
+		<description><![CDATA[Ocupada em 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.53634699999998,-23.661725000000004</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Escola Estadual Joaquim Leme do Prado</name>
+		<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.65227970000001,-23.4882204</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EE Professor João Carlos Gomes Cardim</name>
+		<description><![CDATA[Ocupada em 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.59700800000002,-23.709316500000003</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Raul Fonseca</name>
+		<description><![CDATA[Ocupada em 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.60886289999996,-23.6122694</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. Jardim Wilma Flor</name>
+		<description><![CDATA[Ocupada em 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.396418600000004,-23.5758942</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tancredo de Almeida Neves Pres</name>
+		<description><![CDATA[Ocupada em 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.64221250000003,-23.7937675</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Escola Estadual de Primeiro e Segundo Grau Caetano de Campos</name>
+		<description><![CDATA[Ocupada em 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.6303997,-23.5646592</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. Shinquichi Agari</name>
+		<description><![CDATA[Ocupada em 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.421511699999996,-23.5013996</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Maria Regina Machado de Castro Guimaraes Profa</name>
+		<description><![CDATA[Ocupada em 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.419566799999984,-23.5172129</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Chlorita de Oliveira Penteado Martins Profa</name>
+		<description><![CDATA[Ocupada em 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-48.35745080000004,-21.5948968</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Escola Estadual Antônio de Mello Cotrim</name>
+		<description><![CDATA[Ocupada em 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-47.6513023,-22.7515032</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Antoine de Saint Exupery</name>
+		<description><![CDATA[Ocupada em 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.681298200000015,-23.491461200000003</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Escola Estadual Professora Eulália Silva</name>
+		<description><![CDATA[Ocupada em 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.75494519999995,-23.6797079</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E. Caetano de Campos</name>
+		<description><![CDATA[Ocupada em 18/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.64719359999998,-23.5495687</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>E.E.Prof° Josepha P. Chiavelli</name>
+		<description><![CDATA[Ocupada em 17/11]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.900260600000024,-23.5309605</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Escola Estadual Pedro Fonseca</name>
+		<description><![CDATA[Ocupada no dia 18/11 às 12h]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.7402816,-23.6028462</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>E.E. Pedro Fonseca</name>
+		<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.740303,-23.6028462</coordinates>
 		</Point>
 	</Placemark>
 </kml>
